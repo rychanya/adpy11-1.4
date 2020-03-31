@@ -1,0 +1,250 @@
+2020-03-31 22:32:11.363053- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Aruba'), kwargs: {}, result: https://en.wikipedia.org/wiki/Aruba
+2020-03-31 22:32:12.146074- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Afghanistan'), kwargs: {}, result: https://en.wikipedia.org/wiki/Afghanistan
+2020-03-31 22:32:13.266385- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Angola'), kwargs: {}, result: https://en.wikipedia.org/wiki/Angola
+2020-03-31 22:32:13.841633- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Anguilla'), kwargs: {}, result: https://en.wikipedia.org/wiki/Anguilla
+2020-03-31 22:32:14.427234- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Åland Islands'), kwargs: {}, result: https://en.wikipedia.org/wiki/%C3%85land_Islands
+2020-03-31 22:32:15.084194- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Albania'), kwargs: {}, result: https://en.wikipedia.org/wiki/Albania
+2020-03-31 22:32:15.649422- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Andorra'), kwargs: {}, result: https://en.wikipedia.org/wiki/Andorra
+2020-03-31 22:32:16.348710- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'United Arab Emirates'), kwargs: {}, result: https://en.wikipedia.org/wiki/United_Arab_Emirates
+2020-03-31 22:32:17.024337- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Argentina'), kwargs: {}, result: https://en.wikipedia.org/wiki/Argentina
+2020-03-31 22:32:17.594467- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Armenia'), kwargs: {}, result: https://en.wikipedia.org/wiki/Armenia
+2020-03-31 22:32:18.209346- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'American Samoa'), kwargs: {}, result: https://en.wikipedia.org/wiki/American_Samoa
+2020-03-31 22:32:18.787128- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Antarctica'), kwargs: {}, result: https://en.wikipedia.org/wiki/Antarctica
+2020-03-31 22:32:19.465443- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'French Southern and Antarctic Lands'), kwargs: {}, result: https://en.wikipedia.org/wiki/French_Southern_and_Antarctic_Lands
+2020-03-31 22:32:20.101076- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Antigua and Barbuda'), kwargs: {}, result: https://en.wikipedia.org/wiki/Antigua_and_Barbuda
+2020-03-31 22:32:20.833817- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Australia'), kwargs: {}, result: https://en.wikipedia.org/wiki/Australia
+2020-03-31 22:32:21.861462- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Austria'), kwargs: {}, result: https://en.wikipedia.org/wiki/Austria
+2020-03-31 22:32:22.451419- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Azerbaijan'), kwargs: {}, result: https://en.wikipedia.org/wiki/Azerbaijan
+2020-03-31 22:32:23.019454- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Burundi'), kwargs: {}, result: https://en.wikipedia.org/wiki/Burundi
+2020-03-31 22:32:23.800342- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Belgium'), kwargs: {}, result: https://en.wikipedia.org/wiki/Belgium
+2020-03-31 22:32:24.464833- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Benin'), kwargs: {}, result: https://en.wikipedia.org/wiki/Benin
+2020-03-31 22:32:25.153142- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Burkina Faso'), kwargs: {}, result: https://en.wikipedia.org/wiki/Burkina_Faso
+2020-03-31 22:32:25.674557- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Bangladesh'), kwargs: {}, result: https://en.wikipedia.org/wiki/Bangladesh
+2020-03-31 22:32:26.338681- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Bulgaria'), kwargs: {}, result: https://en.wikipedia.org/wiki/Bulgaria
+2020-03-31 22:32:26.918057- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Bahrain'), kwargs: {}, result: https://en.wikipedia.org/wiki/Bahrain
+2020-03-31 22:32:27.446429- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Bahamas'), kwargs: {}, result: https://en.wikipedia.org/wiki/The_Bahamas
+2020-03-31 22:32:28.069463- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Bosnia and Herzegovina'), kwargs: {}, result: https://en.wikipedia.org/wiki/Bosnia_and_Herzegovina
+2020-03-31 22:32:28.835189- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Saint Barthélemy'), kwargs: {}, result: https://en.wikipedia.org/wiki/Saint_Barth%C3%A9lemy
+2020-03-31 22:32:29.529835- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Saint Helena, Ascension and Tristan da Cunha'), kwargs: {}, result: https://en.wikipedia.org/wiki/Saint_Helena,_Ascension_and_Tristan_da_Cunha
+2020-03-31 22:32:30.040959- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Belarus'), kwargs: {}, result: https://en.wikipedia.org/wiki/Belarus
+2020-03-31 22:32:30.847766- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Belize'), kwargs: {}, result: https://en.wikipedia.org/wiki/Belize
+2020-03-31 22:32:31.749781- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Bermuda'), kwargs: {}, result: https://en.wikipedia.org/wiki/Bermuda
+2020-03-31 22:32:32.316453- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Bolivia'), kwargs: {}, result: https://en.wikipedia.org/wiki/Bolivia
+2020-03-31 22:32:32.990552- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Caribbean Netherlands'), kwargs: {}, result: https://en.wikipedia.org/wiki/Caribbean_Netherlands
+2020-03-31 22:32:33.688448- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Brazil'), kwargs: {}, result: https://en.wikipedia.org/wiki/Brazil
+2020-03-31 22:32:34.847835- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Barbados'), kwargs: {}, result: https://en.wikipedia.org/wiki/Barbados
+2020-03-31 22:32:35.800595- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Brunei'), kwargs: {}, result: https://en.wikipedia.org/wiki/Brunei
+2020-03-31 22:32:36.652532- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Bhutan'), kwargs: {}, result: https://en.wikipedia.org/wiki/Bhutan
+2020-03-31 22:32:37.451166- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Bouvet Island'), kwargs: {}, result: https://en.wikipedia.org/wiki/Bouvet_Island
+2020-03-31 22:32:38.080624- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Botswana'), kwargs: {}, result: https://en.wikipedia.org/wiki/Botswana
+2020-03-31 22:32:38.797277- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Central African Republic'), kwargs: {}, result: https://en.wikipedia.org/wiki/Central_African_Republic
+2020-03-31 22:32:39.682734- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Canada'), kwargs: {}, result: https://en.wikipedia.org/wiki/Canada
+2020-03-31 22:32:40.332032- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Cocos (Keeling) Islands'), kwargs: {}, result: https://en.wikipedia.org/wiki/Cocos_(Keeling)_Islands
+2020-03-31 22:32:41.415767- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Switzerland'), kwargs: {}, result: https://en.wikipedia.org/wiki/Switzerland
+2020-03-31 22:32:42.024130- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Chile'), kwargs: {}, result: https://en.wikipedia.org/wiki/Chile
+2020-03-31 22:32:42.625602- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'China'), kwargs: {}, result: https://en.wikipedia.org/wiki/China
+2020-03-31 22:32:43.408529- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Ivory Coast'), kwargs: {}, result: https://en.wikipedia.org/wiki/Ivory_Coast
+2020-03-31 22:32:44.001594- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Cameroon'), kwargs: {}, result: https://en.wikipedia.org/wiki/Cameroon
+2020-03-31 22:32:44.508944- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'DR Congo'), kwargs: {}, result: https://en.wikipedia.org/wiki/Democratic_Republic_of_the_Congo
+2020-03-31 22:32:45.596434- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Republic of the Congo'), kwargs: {}, result: https://en.wikipedia.org/wiki/Republic_of_the_Congo
+2020-03-31 22:32:46.406289- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Cook Islands'), kwargs: {}, result: https://en.wikipedia.org/wiki/Cook_Islands
+2020-03-31 22:32:47.435294- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Colombia'), kwargs: {}, result: https://en.wikipedia.org/wiki/Colombia
+2020-03-31 22:32:48.382955- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Comoros'), kwargs: {}, result: https://en.wikipedia.org/wiki/Comoros
+2020-03-31 22:32:48.936645- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Cape Verde'), kwargs: {}, result: https://en.wikipedia.org/wiki/Cape_Verde
+2020-03-31 22:32:49.874143- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Costa Rica'), kwargs: {}, result: https://en.wikipedia.org/wiki/Costa_Rica
+2020-03-31 22:32:50.497887- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Cuba'), kwargs: {}, result: https://en.wikipedia.org/wiki/Cuba
+2020-03-31 22:32:51.508909- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Curaçao'), kwargs: {}, result: https://en.wikipedia.org/wiki/Cura%C3%A7ao
+2020-03-31 22:32:52.193268- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Christmas Island'), kwargs: {}, result: https://en.wikipedia.org/wiki/Christmas_Island
+2020-03-31 22:32:52.818317- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Cayman Islands'), kwargs: {}, result: https://en.wikipedia.org/wiki/Cayman_Islands
+2020-03-31 22:32:53.377893- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Cyprus'), kwargs: {}, result: https://en.wikipedia.org/wiki/Cyprus
+2020-03-31 22:32:53.889176- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Czechia'), kwargs: {}, result: https://en.wikipedia.org/wiki/Czech_Republic
+2020-03-31 22:32:54.606831- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Germany'), kwargs: {}, result: https://en.wikipedia.org/wiki/Germany
+2020-03-31 22:32:55.315783- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Djibouti'), kwargs: {}, result: https://en.wikipedia.org/wiki/Djibouti
+2020-03-31 22:32:55.907155- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Dominica'), kwargs: {}, result: https://en.wikipedia.org/wiki/Dominica
+2020-03-31 22:32:56.546167- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Denmark'), kwargs: {}, result: https://en.wikipedia.org/wiki/Denmark
+2020-03-31 22:32:57.237147- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Dominican Republic'), kwargs: {}, result: https://en.wikipedia.org/wiki/Dominican_Republic
+2020-03-31 22:32:57.773228- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Algeria'), kwargs: {}, result: https://en.wikipedia.org/wiki/Algeria
+2020-03-31 22:32:58.998149- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Ecuador'), kwargs: {}, result: https://en.wikipedia.org/wiki/Ecuador
+2020-03-31 22:33:00.580490- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Egypt'), kwargs: {}, result: https://en.wikipedia.org/wiki/Egypt
+2020-03-31 22:33:01.294776- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Eritrea'), kwargs: {}, result: https://en.wikipedia.org/wiki/Eritrea
+2020-03-31 22:33:01.932548- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Western Sahara'), kwargs: {}, result: https://en.wikipedia.org/wiki/Western_Sahara
+2020-03-31 22:33:02.842306- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Spain'), kwargs: {}, result: https://en.wikipedia.org/wiki/Spain
+2020-03-31 22:33:03.509676- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Estonia'), kwargs: {}, result: https://en.wikipedia.org/wiki/Estonia
+2020-03-31 22:33:04.063688- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Ethiopia'), kwargs: {}, result: https://en.wikipedia.org/wiki/Ethiopia
+2020-03-31 22:33:04.735199- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Finland'), kwargs: {}, result: https://en.wikipedia.org/wiki/Finland
+2020-03-31 22:33:05.322457- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Fiji'), kwargs: {}, result: https://en.wikipedia.org/wiki/Fiji
+2020-03-31 22:33:06.530875- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Falkland Islands'), kwargs: {}, result: https://en.wikipedia.org/wiki/Falkland_Islands
+2020-03-31 22:33:07.479919- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'France'), kwargs: {}, result: https://en.wikipedia.org/wiki/France
+2020-03-31 22:33:08.317122- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Faroe Islands'), kwargs: {}, result: https://en.wikipedia.org/wiki/Faroe_Islands
+2020-03-31 22:33:10.045459- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Micronesia'), kwargs: {}, result: https://en.wikipedia.org/wiki/Micronesia
+2020-03-31 22:33:11.412074- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Gabon'), kwargs: {}, result: https://en.wikipedia.org/wiki/Gabon
+2020-03-31 22:33:12.350207- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'United Kingdom'), kwargs: {}, result: https://en.wikipedia.org/wiki/United_Kingdom
+2020-03-31 22:33:13.050476- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Georgia'), kwargs: {}, result: https://en.wikipedia.org/wiki/Georgia
+2020-03-31 22:33:13.527906- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Guernsey'), kwargs: {}, result: https://en.wikipedia.org/wiki/Guernsey
+2020-03-31 22:33:14.208956- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Ghana'), kwargs: {}, result: https://en.wikipedia.org/wiki/Ghana
+2020-03-31 22:33:14.789295- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Gibraltar'), kwargs: {}, result: https://en.wikipedia.org/wiki/Gibraltar
+2020-03-31 22:33:15.562283- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Guinea'), kwargs: {}, result: https://en.wikipedia.org/wiki/Guinea
+2020-03-31 22:33:16.332719- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Guadeloupe'), kwargs: {}, result: https://en.wikipedia.org/wiki/Guadeloupe
+2020-03-31 22:33:16.818381- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Gambia'), kwargs: {}, result: https://en.wikipedia.org/wiki/The_Gambia
+2020-03-31 22:33:17.381283- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Guinea-Bissau'), kwargs: {}, result: https://en.wikipedia.org/wiki/Guinea-Bissau
+2020-03-31 22:33:17.991144- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Equatorial Guinea'), kwargs: {}, result: https://en.wikipedia.org/wiki/Equatorial_Guinea
+2020-03-31 22:33:19.350694- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Greece'), kwargs: {}, result: https://en.wikipedia.org/wiki/Greece
+2020-03-31 22:33:21.724881- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Grenada'), kwargs: {}, result: https://en.wikipedia.org/wiki/Grenada
+2020-03-31 22:33:22.318678- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Greenland'), kwargs: {}, result: https://en.wikipedia.org/wiki/Greenland
+2020-03-31 22:33:22.932231- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Guatemala'), kwargs: {}, result: https://en.wikipedia.org/wiki/Guatemala
+2020-03-31 22:33:23.576212- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'French Guiana'), kwargs: {}, result: https://en.wikipedia.org/wiki/French_Guiana
+2020-03-31 22:33:24.180392- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Guam'), kwargs: {}, result: https://en.wikipedia.org/wiki/Guam
+2020-03-31 22:33:24.820489- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Guyana'), kwargs: {}, result: https://en.wikipedia.org/wiki/Guyana
+2020-03-31 22:33:25.622176- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Hong Kong'), kwargs: {}, result: https://en.wikipedia.org/wiki/Hong_Kong
+2020-03-31 22:33:26.338898- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Heard Island and McDonald Islands'), kwargs: {}, result: https://en.wikipedia.org/wiki/Heard_Island_and_McDonald_Islands
+2020-03-31 22:33:26.849478- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Honduras'), kwargs: {}, result: https://en.wikipedia.org/wiki/Honduras
+2020-03-31 22:33:27.467093- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Croatia'), kwargs: {}, result: https://en.wikipedia.org/wiki/Croatia
+2020-03-31 22:33:28.240128- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Haiti'), kwargs: {}, result: https://en.wikipedia.org/wiki/Haiti
+2020-03-31 22:33:28.975546- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Hungary'), kwargs: {}, result: https://en.wikipedia.org/wiki/Hungary
+2020-03-31 22:33:29.616347- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Indonesia'), kwargs: {}, result: https://en.wikipedia.org/wiki/Indonesia
+2020-03-31 22:33:30.208886- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Isle of Man'), kwargs: {}, result: https://en.wikipedia.org/wiki/Isle_of_Man
+2020-03-31 22:33:30.817547- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'India'), kwargs: {}, result: https://en.wikipedia.org/wiki/India
+2020-03-31 22:33:31.808582- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'British Indian Ocean Territory'), kwargs: {}, result: https://en.wikipedia.org/wiki/British_Indian_Ocean_Territory
+2020-03-31 22:33:32.969964- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Ireland'), kwargs: {}, result: https://en.wikipedia.org/wiki/Ireland
+2020-03-31 22:33:33.784215- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Iran'), kwargs: {}, result: https://en.wikipedia.org/wiki/Iran
+2020-03-31 22:33:34.426116- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Iraq'), kwargs: {}, result: https://en.wikipedia.org/wiki/Iraq
+2020-03-31 22:33:35.034478- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Iceland'), kwargs: {}, result: https://en.wikipedia.org/wiki/Iceland
+2020-03-31 22:33:35.680669- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Israel'), kwargs: {}, result: https://en.wikipedia.org/wiki/Israel
+2020-03-31 22:33:36.828607- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Italy'), kwargs: {}, result: https://en.wikipedia.org/wiki/Italy
+2020-03-31 22:33:37.796838- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Jamaica'), kwargs: {}, result: https://en.wikipedia.org/wiki/Jamaica
+2020-03-31 22:33:39.012655- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Jersey'), kwargs: {}, result: https://en.wikipedia.org/wiki/Jersey
+2020-03-31 22:33:39.547066- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Jordan'), kwargs: {}, result: https://en.wikipedia.org/wiki/Jordan
+2020-03-31 22:33:40.615660- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Japan'), kwargs: {}, result: https://en.wikipedia.org/wiki/Japan
+2020-03-31 22:33:41.548972- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Kazakhstan'), kwargs: {}, result: https://en.wikipedia.org/wiki/Kazakhstan
+2020-03-31 22:33:42.056600- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Kenya'), kwargs: {}, result: https://en.wikipedia.org/wiki/Kenya
+2020-03-31 22:33:42.992361- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Kyrgyzstan'), kwargs: {}, result: https://en.wikipedia.org/wiki/Kyrgyzstan
+2020-03-31 22:33:43.958332- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Cambodia'), kwargs: {}, result: https://en.wikipedia.org/wiki/Cambodia
+2020-03-31 22:33:44.662014- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Kiribati'), kwargs: {}, result: https://en.wikipedia.org/wiki/Kiribati
+2020-03-31 22:33:45.486567- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Saint Kitts and Nevis'), kwargs: {}, result: https://en.wikipedia.org/wiki/Saint_Kitts_and_Nevis
+2020-03-31 22:33:47.079143- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'South Korea'), kwargs: {}, result: https://en.wikipedia.org/wiki/South_Korea
+2020-03-31 22:33:48.026836- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Kosovo'), kwargs: {}, result: https://en.wikipedia.org/wiki/Kosovo
+2020-03-31 22:33:48.627866- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Kuwait'), kwargs: {}, result: https://en.wikipedia.org/wiki/Kuwait
+2020-03-31 22:33:49.408173- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Laos'), kwargs: {}, result: https://en.wikipedia.org/wiki/Laos
+2020-03-31 22:33:50.848306- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Lebanon'), kwargs: {}, result: https://en.wikipedia.org/wiki/Lebanon
+2020-03-31 22:33:51.961631- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Liberia'), kwargs: {}, result: https://en.wikipedia.org/wiki/Liberia
+2020-03-31 22:33:52.518970- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Libya'), kwargs: {}, result: https://en.wikipedia.org/wiki/Libya
+2020-03-31 22:33:53.209435- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Saint Lucia'), kwargs: {}, result: https://en.wikipedia.org/wiki/Saint_Lucia
+2020-03-31 22:33:54.215530- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Liechtenstein'), kwargs: {}, result: https://en.wikipedia.org/wiki/Liechtenstein
+2020-03-31 22:33:54.890322- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Sri Lanka'), kwargs: {}, result: https://en.wikipedia.org/wiki/Sri_Lanka
+2020-03-31 22:33:55.517450- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Lesotho'), kwargs: {}, result: https://en.wikipedia.org/wiki/Lesotho
+2020-03-31 22:33:56.428630- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Lithuania'), kwargs: {}, result: https://en.wikipedia.org/wiki/Lithuania
+2020-03-31 22:33:56.946844- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Luxembourg'), kwargs: {}, result: https://en.wikipedia.org/wiki/Luxembourg
+2020-03-31 22:33:58.364882- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Latvia'), kwargs: {}, result: https://en.wikipedia.org/wiki/Latvia
+2020-03-31 22:33:58.877263- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Macau'), kwargs: {}, result: https://en.wikipedia.org/wiki/Macau
+2020-03-31 22:33:59.730219- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Saint Martin'), kwargs: {}, result: https://en.wikipedia.org/wiki/Saint_Martin
+2020-03-31 22:34:00.226371- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Morocco'), kwargs: {}, result: https://en.wikipedia.org/wiki/Morocco
+2020-03-31 22:34:01.403659- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Monaco'), kwargs: {}, result: https://en.wikipedia.org/wiki/Monaco
+2020-03-31 22:34:02.017226- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Moldova'), kwargs: {}, result: https://en.wikipedia.org/wiki/Moldova
+2020-03-31 22:34:03.982848- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Madagascar'), kwargs: {}, result: https://en.wikipedia.org/wiki/Madagascar
+2020-03-31 22:34:04.476673- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Maldives'), kwargs: {}, result: https://en.wikipedia.org/wiki/Maldives
+2020-03-31 22:34:05.820659- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Mexico'), kwargs: {}, result: https://en.wikipedia.org/wiki/Mexico
+2020-03-31 22:34:06.469160- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Marshall Islands'), kwargs: {}, result: https://en.wikipedia.org/wiki/Marshall_Islands
+2020-03-31 22:34:07.698595- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'North Macedonia'), kwargs: {}, result: https://en.wikipedia.org/wiki/North_Macedonia
+2020-03-31 22:34:08.239438- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Mali'), kwargs: {}, result: https://en.wikipedia.org/wiki/Mali
+2020-03-31 22:34:09.222674- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Malta'), kwargs: {}, result: https://en.wikipedia.org/wiki/Malta
+2020-03-31 22:34:10.050421- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Myanmar'), kwargs: {}, result: https://en.wikipedia.org/wiki/Myanmar
+2020-03-31 22:34:10.599256- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Montenegro'), kwargs: {}, result: https://en.wikipedia.org/wiki/Montenegro
+2020-03-31 22:34:11.136560- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Mongolia'), kwargs: {}, result: https://en.wikipedia.org/wiki/Mongolia
+2020-03-31 22:34:11.801876- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Northern Mariana Islands'), kwargs: {}, result: https://en.wikipedia.org/wiki/Northern_Mariana_Islands
+2020-03-31 22:34:12.441560- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Mozambique'), kwargs: {}, result: https://en.wikipedia.org/wiki/Mozambique
+2020-03-31 22:34:13.740962- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Mauritania'), kwargs: {}, result: https://en.wikipedia.org/wiki/Mauritania
+2020-03-31 22:34:14.298752- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Montserrat'), kwargs: {}, result: https://en.wikipedia.org/wiki/Montserrat
+2020-03-31 22:34:14.931840- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Martinique'), kwargs: {}, result: https://en.wikipedia.org/wiki/Martinique
+2020-03-31 22:34:15.695606- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Mauritius'), kwargs: {}, result: https://en.wikipedia.org/wiki/Mauritius
+2020-03-31 22:34:16.820688- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Malawi'), kwargs: {}, result: https://en.wikipedia.org/wiki/Malawi
+2020-03-31 22:34:17.381196- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Malaysia'), kwargs: {}, result: https://en.wikipedia.org/wiki/Malaysia
+2020-03-31 22:34:18.690476- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Mayotte'), kwargs: {}, result: https://en.wikipedia.org/wiki/Mayotte
+2020-03-31 22:34:19.343655- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Namibia'), kwargs: {}, result: https://en.wikipedia.org/wiki/Namibia
+2020-03-31 22:34:20.398675- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'New Caledonia'), kwargs: {}, result: https://en.wikipedia.org/wiki/New_Caledonia
+2020-03-31 22:34:21.027799- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Niger'), kwargs: {}, result: https://en.wikipedia.org/wiki/Niger
+2020-03-31 22:34:21.932856- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Norfolk Island'), kwargs: {}, result: https://en.wikipedia.org/wiki/Norfolk_Island
+2020-03-31 22:34:22.506588- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Nigeria'), kwargs: {}, result: https://en.wikipedia.org/wiki/Nigeria
+2020-03-31 22:34:23.501589- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Nicaragua'), kwargs: {}, result: https://en.wikipedia.org/wiki/Nicaragua
+2020-03-31 22:34:24.084446- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Niue'), kwargs: {}, result: https://en.wikipedia.org/wiki/Niue
+2020-03-31 22:34:24.782505- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Netherlands'), kwargs: {}, result: https://en.wikipedia.org/wiki/Netherlands
+2020-03-31 22:34:25.408406- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Norway'), kwargs: {}, result: https://en.wikipedia.org/wiki/Norway
+2020-03-31 22:34:26.003387- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Nepal'), kwargs: {}, result: https://en.wikipedia.org/wiki/Nepal
+2020-03-31 22:34:26.483350- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Nauru'), kwargs: {}, result: https://en.wikipedia.org/wiki/Nauru
+2020-03-31 22:34:27.377987- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'New Zealand'), kwargs: {}, result: https://en.wikipedia.org/wiki/New_Zealand
+2020-03-31 22:34:27.915912- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Oman'), kwargs: {}, result: https://en.wikipedia.org/wiki/Oman
+2020-03-31 22:34:28.545750- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Pakistan'), kwargs: {}, result: https://en.wikipedia.org/wiki/Pakistan
+2020-03-31 22:34:29.178267- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Panama'), kwargs: {}, result: https://en.wikipedia.org/wiki/Panama
+2020-03-31 22:34:29.669265- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Pitcairn Islands'), kwargs: {}, result: https://en.wikipedia.org/wiki/Pitcairn_Islands
+2020-03-31 22:34:30.773690- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Peru'), kwargs: {}, result: https://en.wikipedia.org/wiki/Peru
+2020-03-31 22:34:31.546268- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Philippines'), kwargs: {}, result: https://en.wikipedia.org/wiki/Philippines
+2020-03-31 22:34:32.079422- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Palau'), kwargs: {}, result: https://en.wikipedia.org/wiki/Palau
+2020-03-31 22:34:32.815708- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Papua New Guinea'), kwargs: {}, result: https://en.wikipedia.org/wiki/Papua_New_Guinea
+2020-03-31 22:34:33.411953- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Poland'), kwargs: {}, result: https://en.wikipedia.org/wiki/Poland
+2020-03-31 22:34:34.063004- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Puerto Rico'), kwargs: {}, result: https://en.wikipedia.org/wiki/Puerto_Rico
+2020-03-31 22:34:34.798029- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'North Korea'), kwargs: {}, result: https://en.wikipedia.org/wiki/North_Korea
+2020-03-31 22:34:35.540520- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Portugal'), kwargs: {}, result: https://en.wikipedia.org/wiki/Portugal
+2020-03-31 22:34:36.070824- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Paraguay'), kwargs: {}, result: https://en.wikipedia.org/wiki/Paraguay
+2020-03-31 22:34:36.631471- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Palestine'), kwargs: {}, result: https://en.wikipedia.org/wiki/Palestine
+2020-03-31 22:34:37.208594- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'French Polynesia'), kwargs: {}, result: https://en.wikipedia.org/wiki/French_Polynesia
+2020-03-31 22:34:37.898063- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Qatar'), kwargs: {}, result: https://en.wikipedia.org/wiki/Qatar
+2020-03-31 22:34:38.864306- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Réunion'), kwargs: {}, result: https://en.wikipedia.org/wiki/R%C3%A9union
+2020-03-31 22:34:39.525367- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Romania'), kwargs: {}, result: https://en.wikipedia.org/wiki/Romania
+2020-03-31 22:34:40.135744- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Russia'), kwargs: {}, result: https://en.wikipedia.org/wiki/Russia
+2020-03-31 22:34:40.961014- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Rwanda'), kwargs: {}, result: https://en.wikipedia.org/wiki/Rwanda
+2020-03-31 22:34:42.178074- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Saudi Arabia'), kwargs: {}, result: https://en.wikipedia.org/wiki/Saudi_Arabia
+2020-03-31 22:34:42.787342- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Sudan'), kwargs: {}, result: https://en.wikipedia.org/wiki/Sudan
+2020-03-31 22:34:43.337821- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Senegal'), kwargs: {}, result: https://en.wikipedia.org/wiki/Senegal
+2020-03-31 22:34:43.952266- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Singapore'), kwargs: {}, result: https://en.wikipedia.org/wiki/Singapore
+2020-03-31 22:34:44.928043- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'South Georgia'), kwargs: {}, result: https://en.wikipedia.org/wiki/South_Georgia_and_the_South_Sandwich_Islands
+2020-03-31 22:34:45.645739- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Svalbard and Jan Mayen'), kwargs: {}, result: https://en.wikipedia.org/wiki/Svalbard_and_Jan_Mayen
+2020-03-31 22:34:46.321349- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Solomon Islands'), kwargs: {}, result: https://en.wikipedia.org/wiki/Solomon_Islands
+2020-03-31 22:34:47.027305- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Sierra Leone'), kwargs: {}, result: https://en.wikipedia.org/wiki/Sierra_Leone
+2020-03-31 22:34:47.624966- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'El Salvador'), kwargs: {}, result: https://en.wikipedia.org/wiki/El_Salvador
+2020-03-31 22:34:48.206806- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'San Marino'), kwargs: {}, result: https://en.wikipedia.org/wiki/San_Marino
+2020-03-31 22:34:48.766312- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Somalia'), kwargs: {}, result: https://en.wikipedia.org/wiki/Somalia
+2020-03-31 22:34:49.447862- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Saint Pierre and Miquelon'), kwargs: {}, result: https://en.wikipedia.org/wiki/Saint_Pierre_and_Miquelon
+2020-03-31 22:34:50.198120- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Serbia'), kwargs: {}, result: https://en.wikipedia.org/wiki/Serbia
+2020-03-31 22:34:50.862973- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'South Sudan'), kwargs: {}, result: https://en.wikipedia.org/wiki/South_Sudan
+2020-03-31 22:34:51.764975- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'São Tomé and Príncipe'), kwargs: {}, result: https://en.wikipedia.org/wiki/S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe
+2020-03-31 22:34:52.541098- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Suriname'), kwargs: {}, result: https://en.wikipedia.org/wiki/Suriname
+2020-03-31 22:34:53.964293- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Slovakia'), kwargs: {}, result: https://en.wikipedia.org/wiki/Slovakia
+2020-03-31 22:34:54.694940- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Slovenia'), kwargs: {}, result: https://en.wikipedia.org/wiki/Slovenia
+2020-03-31 22:34:55.338721- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Sweden'), kwargs: {}, result: https://en.wikipedia.org/wiki/Sweden
+2020-03-31 22:34:55.947331- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Eswatini'), kwargs: {}, result: https://en.wikipedia.org/wiki/Eswatini
+2020-03-31 22:34:57.047131- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Sint Maarten'), kwargs: {}, result: https://en.wikipedia.org/wiki/Sint_Maarten
+2020-03-31 22:34:58.022341- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Seychelles'), kwargs: {}, result: https://en.wikipedia.org/wiki/Seychelles
+2020-03-31 22:34:58.727828- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Syria'), kwargs: {}, result: https://en.wikipedia.org/wiki/Syria
+2020-03-31 22:34:59.352236- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Turks and Caicos Islands'), kwargs: {}, result: https://en.wikipedia.org/wiki/Turks_and_Caicos_Islands
+2020-03-31 22:34:59.856408- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Chad'), kwargs: {}, result: https://en.wikipedia.org/wiki/Chad
+2020-03-31 22:35:00.429825- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Togo'), kwargs: {}, result: https://en.wikipedia.org/wiki/Togo
+2020-03-31 22:35:01.195448- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Thailand'), kwargs: {}, result: https://en.wikipedia.org/wiki/Thailand
+2020-03-31 22:35:01.724258- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Tajikistan'), kwargs: {}, result: https://en.wikipedia.org/wiki/Tajikistan
+2020-03-31 22:35:02.410871- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Tokelau'), kwargs: {}, result: https://en.wikipedia.org/wiki/Tokelau
+2020-03-31 22:35:02.945837- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Turkmenistan'), kwargs: {}, result: https://en.wikipedia.org/wiki/Turkmenistan
+2020-03-31 22:35:03.479685- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Timor-Leste'), kwargs: {}, result: https://en.wikipedia.org/wiki/East_Timor
+2020-03-31 22:35:03.976154- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Tonga'), kwargs: {}, result: https://en.wikipedia.org/wiki/Tonga
+2020-03-31 22:35:04.663621- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Trinidad and Tobago'), kwargs: {}, result: https://en.wikipedia.org/wiki/Trinidad_and_Tobago
+2020-03-31 22:35:05.227925- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Tunisia'), kwargs: {}, result: https://en.wikipedia.org/wiki/Tunisia
+2020-03-31 22:35:05.770287- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Turkey'), kwargs: {}, result: https://en.wikipedia.org/wiki/Turkey
+2020-03-31 22:35:06.334388- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Tuvalu'), kwargs: {}, result: https://en.wikipedia.org/wiki/Tuvalu
+2020-03-31 22:35:07.478318- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Taiwan'), kwargs: {}, result: https://en.wikipedia.org/wiki/Taiwan
+2020-03-31 22:35:08.156219- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Tanzania'), kwargs: {}, result: https://en.wikipedia.org/wiki/Tanzania
+2020-03-31 22:35:08.751768- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Uganda'), kwargs: {}, result: https://en.wikipedia.org/wiki/Uganda
+2020-03-31 22:35:09.428229- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Ukraine'), kwargs: {}, result: https://en.wikipedia.org/wiki/Ukraine
+2020-03-31 22:35:09.978912- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'United States Minor Outlying Islands'), kwargs: {}, result: https://en.wikipedia.org/wiki/United_States_Minor_Outlying_Islands
+2020-03-31 22:35:10.577752- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Uruguay'), kwargs: {}, result: https://en.wikipedia.org/wiki/Uruguay
+2020-03-31 22:35:11.939225- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'United States'), kwargs: {}, result: https://en.wikipedia.org/wiki/United_States
+2020-03-31 22:35:12.642786- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Uzbekistan'), kwargs: {}, result: https://en.wikipedia.org/wiki/Uzbekistan
+2020-03-31 22:35:13.134378- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Vatican City'), kwargs: {}, result: https://en.wikipedia.org/wiki/Vatican_City
+2020-03-31 22:35:13.899708- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Saint Vincent and the Grenadines'), kwargs: {}, result: https://en.wikipedia.org/wiki/Saint_Vincent_and_the_Grenadines
+2020-03-31 22:35:14.530255- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Venezuela'), kwargs: {}, result: https://en.wikipedia.org/wiki/Venezuela
+2020-03-31 22:35:15.306723- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'British Virgin Islands'), kwargs: {}, result: https://en.wikipedia.org/wiki/British_Virgin_Islands
+2020-03-31 22:35:16.144307- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'United States Virgin Islands'), kwargs: {}, result: https://en.wikipedia.org/wiki/United_States_Virgin_Islands
+2020-03-31 22:35:16.760557- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Vietnam'), kwargs: {}, result: https://en.wikipedia.org/wiki/Vietnam
+2020-03-31 22:35:18.143435- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Vanuatu'), kwargs: {}, result: https://en.wikipedia.org/wiki/Vanuatu
+2020-03-31 22:35:18.843141- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Wallis and Futuna'), kwargs: {}, result: https://en.wikipedia.org/wiki/Wallis_and_Futuna
+2020-03-31 22:35:19.471813- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Samoa'), kwargs: {}, result: https://en.wikipedia.org/wiki/Samoa
+2020-03-31 22:35:20.122035- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Yemen'), kwargs: {}, result: https://en.wikipedia.org/wiki/Yemen
+2020-03-31 22:35:20.809667- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'South Africa'), kwargs: {}, result: https://en.wikipedia.org/wiki/South_Africa
+2020-03-31 22:35:21.331334- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Zambia'), kwargs: {}, result: https://en.wikipedia.org/wiki/Zambia
+2020-03-31 22:35:21.921401- name: get_url, args: (<__main__.CountriesIter object at 0x7f57d6110128>, 'Zimbabwe'), kwargs: {}, result: https://en.wikipedia.org/wiki/Zimbabwe
